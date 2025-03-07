@@ -1,0 +1,9 @@
+faiss
+langchain
+PyPDF2
+base64
+numpy
+os
+streamlit
+openai
+langchain_community
