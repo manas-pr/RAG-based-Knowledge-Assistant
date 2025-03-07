@@ -1,9 +1,7 @@
-faiss
-langchain
-PyPDF2
-base64
-numpy
-os
 streamlit
+faiss-cpu
+numpy
 openai
-langchain_community
+PyPDF2
+langchain
+langchain-community
